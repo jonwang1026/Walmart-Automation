@@ -10,18 +10,18 @@
   
 
 ### Fill in the following information in Personal_info
-  info = {
-    "first_name": "",
-    "last_name": "",
-    "street": "",
-    "phone": "",
-    "city": "",
-    "email": "",
-    "state": "",
-    "zip": "", #example: 12345
-    "creditCard" : "",
-    "cvv": "",
-}
+    info = {
+      "first_name": "",
+      "last_name": "",
+      "street": "",
+      "phone": "",
+      "city": "",
+      "email": "",
+      "state": "",
+      "zip": "", #example: 12345
+      "creditCard" : "",
+      "cvv": "",
+  }
 
 ### Change default url to desired item 
   web = {
@@ -30,7 +30,7 @@
       "cart": "https://www.walmart.com/checkout/#/sign-in",
   }
 ### Download the correct chromedriver for your os
-chromdriver: http://chromedriver.chromium.org/downloads
+  chromdriver: http://chromedriver.chromium.org/downloads
 
 ### Run the program
-$ python3 main.py
+  $ python3 main.py
