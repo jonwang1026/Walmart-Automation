@@ -3,7 +3,7 @@
 # Instructions:
 
 ### Run this in terminal
-    $ git clone https://github.com/jonwang1026/Walmart-Bot
+    $ git clone https://github.com/jonwang1026/Walmart-Automation
     $ cd Walmart-Bot
     $ virtualenv venv --python=python3.8
     $ pip3 install install selenium
