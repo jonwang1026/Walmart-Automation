@@ -1,5 +1,4 @@
-# Walmart-Bot
-Auto Walmart purchase "bot"
+# Walmart-Automation
 
 # Instructions:
 
